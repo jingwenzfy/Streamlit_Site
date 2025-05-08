@@ -14,13 +14,13 @@ st.markdown("#### Berkeley, CA")
 st.markdown("""
 ---
 
-### 👋 Welcome!
+### Welcome!
 
 I'm a Master's student at **UC Berkeley** with a **strong professional background** in **software engineering** and **data science**. With nearly two years of experience **collaborating cross-functional teams**, I specialize in:
 
-- ⚙️ **Process automation that scales**
-- 📊 **Building interpretable and interactive data visualizations**
-- 🤝 **Communicating technical results clearly to non-technical audiences**
+- **Process automation that scales**
+- **Building interpretable and interactive data visualizations**
+- **Communicating technical results clearly to non-technical audiences**
 
 I’m passionate about delivering **actionable insights** and always strive to be a **reliable and empathetic teammate**. I’ve consistently received positive feedback from my managers and supervisors, and I look forward to connecting with you.
 
