@@ -17,16 +17,16 @@ with col1:
     st.image("assets/me_with_competition_team.jpg", caption="With my competition team")
 
 with col2:
-    st.image("assets/me_with_Tony.jpg", caption="Meeting Tony Xu at the Berkeley alumni event")
+    st.image("assets/me_with_tony_xu.jpg", caption="Meeting Tony Xu at the Berkeley alumni event")
     st.image("assets/alumni_event_day.JPG", caption="UC Berkeley alumni celebration")
 
 # --- Career & Team
 st.subheader("👨‍💻 Working with Teams")
-st.image("assets/me_with_KONE_team.jpg", caption="Me with the KONE Analytics Team")
+st.image("assets/me_with_kone_team.jpg", caption="Me with the KONE Analytics Team")
 
 # --- Nature & Exploration
 st.subheader("🌄 Outside of Work")
-st.image("assets/me_at_Yosemite_top.jpg", caption="Hiking to the top of Yosemite — one of my favorite adventures")
+st.image("assets/me_at_yosemite_top.jpg", caption="Hiking to the top of Yosemite — one of my favorite adventures")
 
 st.subheader("🐶 Meet Lele!")
 st.markdown("Lele is my loyal companion and brings me lots of joy every day.")
